@@ -192,7 +192,7 @@ function movePlayer() {
         // Move the player to the bench.
         document.getElementById('playersOnBench').appendChild(this);
     }
-
+}
 // At the start of each quarter, do two things: 
 // 1. Ensure the players currently on the court have the correct PER represented
 // 2. Update the stats for each player for the current quarter.
